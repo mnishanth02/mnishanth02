@@ -19,7 +19,7 @@
 - 💻 Developed several personal projects with Angular 9, NodeJs, Mongodb
 - 📱Developed some projects in Angular-Ionic and Flutter. 
 <br>
-- Intrested in Collaborates with other developers and Freelancing projects
+- 🤝 Intrested in Collaborates with other developers and Freelancing projects
 <br>
 
 ### Connect with me:
