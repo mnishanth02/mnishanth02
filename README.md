@@ -61,6 +61,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
-
+- [Deno, A better design than NodeJs?](https://nishanthmurugan.com/what-is-deno-nodejs-vs-deno/)
+- [Angular 9 and Ivy](https://nishanthmurugan.com/road-to-angular9/)
+- [Write your first blog post in your own website !](https://nishanthmurugan.com/firstpost/)
+- [Javascript Frameworks at 2020](https://nishanthmurugan.com/js-frameworks2020/)
+- [2020 New Year Resolution – Fitness](https://nishanthmurugan.com/resolution-2020/)
 <!-- BLOG-POST-LIST:END -->
