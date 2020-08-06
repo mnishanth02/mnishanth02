@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **nishanth.murugan@gmail.com**
 <br>
+
 ### Experience:
 - 🏢 I'm currently working as a Java developer in Cognizant with 6+ years of experience in developing J2EE applciations.
 - 💻 Developed several personal projects with Angular 9, NodeJs, Mongodb
@@ -54,3 +55,13 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="26" height="26" style="margin-right:10px"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26" style="margin-right:10px"/></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnishanth02&layout=compact&hide=html" alt="mnishanth02" />
+
+<br>
+<br>
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+
+<!-- BLOG-POST-LIST:END -->
