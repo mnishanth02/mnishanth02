@@ -12,9 +12,16 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mnishanth02](https://github.com/mnishanth02)
 
 - 📫 How to reach me **nishanth.murugan@gmail.com**
+<br>
+### Experience:
+- 🏢 I'm currently working as a Java developer in Cognizant with 6+ years of experience in developing J2EE applciations.
+- 💻 Developed several personal projects with Angular 9, NodeJs, Mongodb
+- 📱Developed some projects in Angular-Ionic and Flutter. 
+<br>
+- Intrested in Collaborates with other developers and Freelancing projects
+<br>
 
 ### Connect with me:
-
 <p align="left">
 <a href="https://fb.com/mnishanth02" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mnishanth02" height="26" width="26" style="margin-right:10px"/></a>
 <a href="https://instagram.com/nishanth_murugan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nishanth_murugan" height="26" width="26" style="margin-right:10px"/></a>
@@ -23,8 +30,8 @@
 <a href="https://twitter.com/nishanthmurugan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nishanthmurugan" height="26" width="26" style="margin-right:10px"/></a>
 </p>
 
-### Languages and Tools:
 
+### Languages and Tools:
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="26" height="26" style="margin-right:10px"/> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="26" height="26" style="margin-right:10px"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="26" height="26" style="margin-right:10px"/> 
