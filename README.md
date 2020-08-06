@@ -54,9 +54,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26" height="26" style="margin-right:10px"/> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="26" height="26" style="margin-right:10px"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26" style="margin-right:10px"/></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnishanth02&layout=compact&hide=html" alt="mnishanth02" />
-
 <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnishanth02&layout=compact&hide=html" alt="mnishanth02" />
 <br>
 ---
 
