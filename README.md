@@ -15,7 +15,7 @@
 <br>
 
 ### Experience:
-- 🏢 I'm currently working as a Java developer in Cognizant with 6+ years of experience in developing J2EE applciations.
+- 🏢 I'm currently working as a Java developer in Cognizant around 7+ years of experience in developing J2EE applciations.
 - 💻 Developed several personal projects with Angular 9, NodeJs, Mongodb
 - 📱Developed some projects in Angular-Ionic and Flutter. 
 <br>
