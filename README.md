@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 ,  I'm Nishanth Murugan  </h1>
-<h3 align="center">A passionate Developer 🧑🏼‍💻, Athelete 🏃, Trekker 🗻</h3>
+<h3 align="center">A passionate Full Stack Developer 🧑🏼‍💻, Athelete 🏃, Trekker 🗻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnishanth02" alt="mnishanth02" /> </p>
 
-- 🔭 I’m currently working on [NM Fitness Store](https://github.com/mnishanth02/nmFitnessStore-Node)
+- 🔭 I’m currently working on [ Zealer Portal ]
 
-- 🌱 I’m currently learning **ReactJs - MERN & Flutter**
+- 🌱 I’m currently learning **NextJs In-Depth**
 
-- 👯 I’m looking to collaborate on **Angular / Node / Java / JavaScript Projects**
+- 👯 I’m looking to collaborate on **React / Nextjs / Node / Java / JavaScript Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mnishanth02](https://github.com/mnishanth02)
 
@@ -15,11 +15,11 @@
 <br>
 
 ### Experience:
-- 🏢 I'm currently working as a Java developer in Cognizant around 8+ years of experience in developing J2EE applciations.
-- 💻 Developed several personal projects with Angular 12, NodeJs, Mongodb
+- 🏢 I'm currently working as a Java developer in Cognizant around 9+ years of experience in developing J2EE & Javascript Framework Applications.
+- 💻 Developed several personal projects with Angular 12, NodeJs, Mongodb, Nextjs v14
 - 📱Developed some projects in Angular-Ionic and Flutter waiting for a perfect idea to implement . 
 <br>
-- 🤝 Intrested in Collaborates with other developers and Freelancing projects
+- 🤝 Intrested in Collaborates with other developers and Freelancing projects - Learn and Grow Together
 <br>
 
 ### Connect with me:
