@@ -15,8 +15,9 @@
 <br>
 
 ### Experience:
-- 🏢 I'm currently working as a Java developer in Cognizant around 9+ years of experience in developing J2EE & Javascript Framework Applications.
-- 💻 Developed several personal projects with Angular 12, NodeJs, Mongodb, Nextjs v14
+- 🏢 I'm currently working as a Java developer in Cognizant around 10+ years of experience in developing J2EE & Javascript Framework Applications.
+- DEVELOPED couple of personal projects using Nextjs 14,  react 18, Neon DB, postgress Database
+- 💻 Developed several personal projects with Angular 12, NodeJs, Mongodb
 - 📱Developed some projects in Angular-Ionic and Flutter waiting for a perfect idea to implement . 
 <br>
 - 🤝 Intrested in Collaborates with other developers and Freelancing projects - Learn and Grow Together
