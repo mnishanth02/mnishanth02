@@ -1,24 +1,22 @@
 <h1 align="center">Hi 👋 ,  I'm Nishanth Murugan  </h1>
-<h3 align="center">A passionate Full Stack Developer 🧑🏼‍💻, Athelete 🏃, Trekker 🗻</h3>
+<h3 align="center">A passionate Full Stack Developer with 10 + years of experence </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnishanth02" alt="mnishanth02" /> </p>
 
-- 🔭 I’m currently working on [Zealer] Portal  [https://zealer.in)
+- 🔭 I’m currently working on [Zealer] Portal  [https://connect.zealer.in)
 
-- 🌱 I’m currently learning **NextJs In-Depth**
+- 🌱 I’m currently building things with  **NextJs**, **Shadcn**, **Lucia Auth**, **NeonDb**, **Drizzle ORM**, **Zod Server Action (ZSA)**, 
 
-- 👯 I’m looking to collaborate on **React / Nextjs / Node / Java / JavaScript Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mnishanth02](https://github.com/mnishanth02)
 
 - 📫 How to reach me **nishanth.murugan@gmail.com**
 <br>
 
 ### Experience:
-- 🏢 I'm currently working as a Java developer in Cognizant around 10+ years of experience in developing J2EE & Javascript Framework Applications.
+- 🏢 I'm currently working as a Technical Lead in Cognizant around 10+ years of experience in developing J2EE & Javascript Framework Applications.
 - DEVELOPED couple of personal projects using Nextjs 14,  react 18, Neon DB, postgress Database
 - 💻 Developed several personal projects with Angular 12, NodeJs, Mongodb
-- 📱Developed some projects in Angular-Ionic and Flutter waiting for a perfect idea to implement . 
+- 📱Developed some projects in Angular-Ionic and Flutter waiting for a perfect idea to implement .
+- I am good at bootstraping things from the scratch.
 <br>
 - 🤝 Intrested in Collaborates with other developers and Freelancing projects - Learn and Grow Together
 <br>
