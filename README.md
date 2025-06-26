@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋 ,  I'm Nishanth Murugan  </h1>
-<h3 align="center">A passionate Full Stack Developer with 10 + years of experence </h3>
+<h3 align="center">A passionate Full Stack Developer with 11 + years of experence </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnishanth02" alt="mnishanth02" /> </p>
 
-- 🔭 I’m currently working on [Zealer] Portal  [https://space1.zealer.in)
+- 🔭 I’m currently working on [Reshare] Portal
 
-- 🌱 I’m currently building things with  **NextJs**, **Shadcn**, **Lucia Auth**, **NeonDb**, **Drizzle ORM**, **Zod Server Action (ZSA)**, 
+- 🌱 I’m currently building things with  **NextJs**, **Shadcn**, **Better Auth**, **NeonDb**, **Drizzle ORM**, **Convex**, 
 
 
 - 📫 How to reach me **nishanth.murugan@gmail.com**
 <br>
 
 ### Experience:
-- 🏢 I'm currently working as a Technical Lead in Cognizant around 10+ years of experience in developing J2EE & Javascript Framework Applications.
-- DEVELOPED couple of personal projects using Nextjs 14,  react 18, Neon DB, postgress Database
+- 🏢 I'm currently working as a Technical Lead in Cognizant around 11+ years of experience in developing J2EE & Javascript Framework Applications.
+- DEVELOPED couple of personal projects using Nextjs 15,  react 19, Neon DB, postgress Database
 - 💻 Developed several personal projects with Angular 12, NodeJs, Mongodb
 - 📱Developed some projects in Angular-Ionic and Flutter waiting for a perfect idea to implement .
 - I am good at bootstraping things from the scratch.
